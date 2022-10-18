@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 # ==================== Load Data ====================
-df = pd.read_csv("task3\eplmatches.csv")
+df = pd.read_csv("eplmatches.csv")
 
 # ==================== Helper Functions ====================
 # Function to get wins for a team
